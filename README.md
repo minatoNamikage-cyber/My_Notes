@@ -142,7 +142,7 @@ Suggestions and improvements are always welcome!
 
 ## 👨‍💻 Author
 
-**SSIDDHARTH**
+**SIDDHARTH**
 
 
 ---
